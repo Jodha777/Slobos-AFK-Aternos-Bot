@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "JodhaSMP.aternos.me",
-    "port": 38404,
+    "ip": "TestingServer-FQ57.exaroton.me",
+    "port": 26578,
     "version": "",
     "try-creative": false
   },
